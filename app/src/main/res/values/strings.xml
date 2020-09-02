@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">pagination</string>
+    <string name="menu" translatable="false">Menu</string>
 </resources>
